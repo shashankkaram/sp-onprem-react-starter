@@ -37,4 +37,4 @@ Add a content editor web part on the SharePoint page and point it to the index.h
 ## Additional Notes
 
 1. The `browserslist` property in package.json was modified to include `ie 11`, so that the app works in IE11.
-2. If the app does not load correctly on the SharePoint page, check the dev tools console for any 404 errors releated to loading js/css files. Update the references in the index.html file as needed
+2. If the app does not load correctly on the SharePoint page, check the dev tools console for any 404 errors related to loading js/css files. Update the references in the index.html file as needed
